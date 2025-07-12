@@ -1,0 +1,13 @@
+2025-06-27 21:35:00,010 INFO  com.resources.FactorialFinder [main] Choose the option "run" to run code and "exit" to exit from the code
+2025-06-27 21:35:03,037 INFO  com.resources.FactorialFinder [main] Thee factors for the 23are :
+2025-06-27 21:35:03,040 INFO  com.resources.FactorialFinder [main] 1
+2025-06-27 21:35:03,040 INFO  com.resources.FactorialFinder [main] 23
+2025-06-27 21:35:03,040 INFO  com.resources.FactorialFinder [main] Choose the option "run" to run code and "exit" to exit from the code
+2025-06-27 21:35:05,314 INFO  com.resources.FactorialFinder [main] Exiting from the Code
+2025-06-27 21:35:05,314 INFO  com.resources.FactorialFinder [main] Thank You!..
+2025-06-27 22:01:09,520 INFO  com.resources.FactorialFinder [main] Choose the option "run" to run code and "exit" to exit from the code
+2025-06-27 22:01:12,811 ERROR com.resources.IntegerFormatValidator [main] NumberFormatException is occured
+2025-06-27 22:01:12,811 ERROR com.resources.Validator [main] Please enter the Integer number only
+2025-06-27 22:01:12,811 INFO  com.resources.FactorialFinder [main] Choose the option "run" to run code and "exit" to exit from the code
+2025-06-27 22:01:15,586 INFO  com.resources.FactorialFinder [main] Exiting from the Code
+2025-06-27 22:01:15,586 INFO  com.resources.FactorialFinder [main] Thank You!..
