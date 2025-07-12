@@ -1,0 +1,143 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="ADm4TOCSpsVAO73PpJz7">
+    <mxGraphModel dx="2276" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KlrDeAPHusBaZ4POctRc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-1" target="KlrDeAPHusBaZ4POctRc-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="378" y="-1070" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-2" target="KlrDeAPHusBaZ4POctRc-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-2" value="Declare HashMap&lt;div&gt;with object&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365.5" y="-840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-3" target="KlrDeAPHusBaZ4POctRc-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-3" value="Read input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="365.5" y="-950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-4" target="KlrDeAPHusBaZ4POctRc-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-4" target="KlrDeAPHusBaZ4POctRc-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-4" value="&lt;div&gt;input % 2 ==0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="378" y="-730" width="94.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KlrDeAPHusBaZ4POctRc-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="-720" as="sourcePoint" />
+            <mxPoint x="425" y="-760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="-760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-5" target="KlrDeAPHusBaZ4POctRc-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-5" value="Add object with key and its value" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-12" target="KlrDeAPHusBaZ4POctRc-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KlrDeAPHusBaZ4POctRc-12" target="KlrDeAPHusBaZ4POctRc-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="-550" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="240" y="-550" />
+              <mxPoint x="240" y="-510" />
+              <mxPoint x="438" y="-510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-12" value="i &amp;lt;= range" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="98.75" y="-600" width="94.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-14" value="true" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-15" value="false" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="271" y="-706" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-17" value="input = input / 2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="-710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-21" value="while" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="425.5" y="-740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-22" value="for" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="133.5" y="-640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-23" target="KlrDeAPHusBaZ4POctRc-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-23" value="range = 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="86" y="-710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-30" value="while" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="-451" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-31" target="KlrDeAPHusBaZ4POctRc-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KlrDeAPHusBaZ4POctRc-31" target="KlrDeAPHusBaZ4POctRc-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-24" y="-680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-14" y="-400" />
+              <mxPoint x="-14" y="-680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-31" value="&lt;div&gt;input % 2 ==0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="99" y="-451" width="94.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-32" value="Add object with key and its value" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="86" y="-311" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-33" value="input = input / 2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="-431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KlrDeAPHusBaZ4POctRc-32" target="KlrDeAPHusBaZ4POctRc-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KlrDeAPHusBaZ4POctRc-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="-441" as="sourcePoint" />
+            <mxPoint x="146" y="-481" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="-481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-39" value="true" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="146" y="-351" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-40" value="false" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-42" value="i+1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-24" y="-540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-44" value="true" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="-500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-47" value="false" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="187" y="-572" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KlrDeAPHusBaZ4POctRc-49" value="Display&lt;div&gt;object key and&lt;br&gt;&amp;nbsp;value&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="378" y="-421" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
