@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.resources.CommandLineArguments
+Class-Path: libs/log4j-api-2.0.2.jar libs/log4j-core-2.0.2.jar
