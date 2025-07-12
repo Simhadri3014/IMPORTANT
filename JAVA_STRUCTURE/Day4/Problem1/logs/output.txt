@@ -1,0 +1,58 @@
+2025-06-28 16:10:19,022 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:27:25,089 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:27:26,663 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:27:28,973 INFO  com.resources.Validator [main] Enter 7 values:
+2025-06-28 16:27:34,417 WARN  com.resources.Validator [main] Empty input. Please enter a valid value.
+2025-06-28 16:27:36,353 WARN  com.resources.Validator [main] Please enter valid integer values.
+2025-06-28 16:27:38,920 INFO  com.resources.ThirdMaximum [main] Every third element in the array is:
+2025-06-28 16:27:38,920 INFO  com.resources.ThirdMaximum [main] 4
+2025-06-28 16:27:38,920 INFO  com.resources.ThirdMaximum [main] 2
+2025-06-28 16:27:38,920 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:27:47,832 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:27:49,687 WARN  com.resources.Validator [main] Invalid array size! Must be a non-empty integer.
+2025-06-28 16:27:49,687 ERROR com.resources.StringComparing [main] Invalid array input is received
+2025-06-28 16:27:49,687 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:28:02,316 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:28:03,856 INFO  com.resources.Validator [main] Enter 7 values:
+2025-06-28 16:28:09,228 WARN  com.resources.Validator [main] Please enter valid string values (no numbers allowed).
+2025-06-28 16:28:21,839 WARN  com.resources.Validator [main] Please enter valid string values (no numbers allowed).
+2025-06-28 16:28:24,855 INFO  com.resources.ThirdMaximum [main] Every third element in the array is:
+2025-06-28 16:28:24,855 INFO  com.resources.ThirdMaximum [main] sim
+2025-06-28 16:28:24,855 INFO  com.resources.ThirdMaximum [main] wdw
+2025-06-28 16:28:24,855 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:28:37,444 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:28:42,814 INFO  com.resources.Validator [main] Enter 5 values:
+2025-06-28 16:28:57,581 INFO  com.resources.ThirdMaximum [main] Every third element in the array is:
+2025-06-28 16:28:57,581 INFO  com.resources.ThirdMaximum [main] sim
+2025-06-28 16:28:57,581 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:29:00,474 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:29:04,810 INFO  com.resources.Validator [main] Enter 5 values:
+2025-06-28 16:29:09,425 WARN  com.resources.Validator [main] Please enter valid integer values.
+2025-06-28 16:29:14,166 INFO  com.resources.ThirdMaximum [main] Every third element in the array is:
+2025-06-28 16:29:14,166 INFO  com.resources.ThirdMaximum [main] 2
+2025-06-28 16:29:14,166 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:29:16,389 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:29:18,876 WARN  com.resources.Validator [main] Invalid array size! Must be a non-empty integer.
+2025-06-28 16:29:18,876 ERROR com.resources.StringComparing [main] Invalid array input is received
+2025-06-28 16:29:18,876 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:29:22,176 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:29:23,822 INFO  com.resources.Validator [main] Enter 5 values:
+2025-06-28 16:29:28,410 WARN  com.resources.Validator [main] Please enter valid string values (no numbers allowed).
+2025-06-28 16:34:59,698 WARN  com.resources.Validator [main] Empty input. Please enter a valid value.
+2025-06-28 16:38:45,446 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:38:46,938 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:38:51,379 WARN  com.resources.Validator [main] Invalid array size! Must be a non-empty positive integer.
+2025-06-28 16:38:51,379 ERROR com.resources.StringComparing [main] Invalid array input is received
+2025-06-28 16:38:51,379 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:38:55,510 INFO  com.resources.Validator [main] Enter the size of the array:
+2025-06-28 16:38:58,270 INFO  com.resources.Validator [main] Enter 5 string values (only alphabets):
+2025-06-28 16:39:02,967 WARN  com.resources.Validator [main] Invalid input. Please enter only alphabetic characters (no numbers or symbols).
+2025-06-28 16:39:05,613 INFO  com.resources.ThirdMaximum [main] Every third element in the array is:
+2025-06-28 16:39:05,613 INFO  com.resources.ThirdMaximum [main] fewf
+2025-06-28 16:39:05,613 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:39:10,867 WARN  com.resources.StringComparing [main] Please choose the correct option either "run" or "exit" 
+2025-06-28 16:39:10,867 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:39:16,281 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:39:16,281 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:39:21,852 INFO  com.resources.StringComparing [main] Exiting from the Code
+2025-06-28 16:39:21,852 INFO  com.resources.StringComparing [main] Thank You!..

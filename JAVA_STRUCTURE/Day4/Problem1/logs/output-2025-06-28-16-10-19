@@ -1,0 +1,613 @@
+2025-06-28 16:10:18,926 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,004 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,004 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,004 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,004 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,004 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,004 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,004 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,004 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,004 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,014 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,014 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,014 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,014 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,014 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,014 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,014 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,014 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,014 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,014 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,014 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,014 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,014 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,014 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,014 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,014 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,014 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,016 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,016 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,016 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,018 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,018 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,018 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,018 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,018 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,018 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,018 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,018 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,018 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,018 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,018 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,018 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,018 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,018 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,018 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,018 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,018 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,018 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,018 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,019 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
+2025-06-28 16:10:19,019 WARN  com.resources.StringComparing [main] "Null values" are not acceptable: Please enter the correct input.
+2025-06-28 16:10:19,019 INFO  com.resources.StringComparing [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-28 16:10:19,022 ERROR com.resources.InputReader [main] IOException is occured
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:334) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at com.resources.InputReader.reader(InputReader.java:24) [ThirdMaxApp.jar:?]
+	at com.resources.StringComparing.main(StringComparing.java:33) [ThirdMaxApp.jar:?]
