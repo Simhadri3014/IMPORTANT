@@ -1,0 +1,75 @@
+2025-06-27 22:23:29,870 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:23:34,188 INFO  com.resources.PrimeNumberCounter [main] The Prime Numbers are: 
+2025-06-27 22:23:34,188 INFO  com.resources.PrimeNumberCounter [main] 2is a prime number
+2025-06-27 22:23:34,188 INFO  com.resources.PrimeNumberCounter [main] 3is a prime number
+2025-06-27 22:23:34,188 INFO  com.resources.PrimeNumberCounter [main] 5is a prime number
+2025-06-27 22:23:34,188 INFO  com.resources.PrimeNumberCounter [main] 7is a prime number
+2025-06-27 22:23:34,188 INFO  com.resources.PrimeNumberCounter [main] 11is a prime number
+2025-06-27 22:23:34,188 INFO  com.resources.PrimeNumberCounter [main] 13is a prime number
+2025-06-27 22:23:34,206 INFO  com.resources.PrimeNumberCounter [main] 17is a prime number
+2025-06-27 22:23:34,206 INFO  com.resources.PrimeNumberCounter [main] 19is a prime number
+2025-06-27 22:23:34,206 INFO  com.resources.PrimeNumberCounter [main] 23is a prime number
+2025-06-27 22:23:34,206 INFO  com.resources.PrimeNumberCounter [main] 29is a prime number
+2025-06-27 22:23:34,206 INFO  com.resources.PrimeNumberCounter [main] 31is a prime number
+2025-06-27 22:23:34,206 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:23:49,962 WARN  com.resources.PrimeNumberCounter [main] Please choose the correct option either "run" or "exit" 
+2025-06-27 22:23:49,962 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:23:55,784 ERROR com.resources.Validator [main] Please enter a number between 0 to 500 only 
+2025-06-27 22:23:55,784 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:24:01,582 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:24:17,627 INFO  com.resources.PrimeNumberCounter [main] Exiting from the Code
+2025-06-27 22:24:17,627 INFO  com.resources.PrimeNumberCounter [main] Thank You!..
+2025-06-27 22:26:46,121 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:26:50,458 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] The Prime Numbers are: 
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 2is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 3is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 5is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 7is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 11is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 13is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 17is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 19is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 23is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 29is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 31is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 37is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 41is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 43is a prime number
+2025-06-27 22:27:03,366 INFO  com.resources.PrimeNumberCounter [main] 47is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 53is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 59is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 61is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 67is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 71is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 73is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 79is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 83is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 89is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] 97is a prime number
+2025-06-27 22:27:03,382 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:27:07,261 WARN  com.resources.PrimeNumberCounter [main] Please choose the correct option either "run" or "exit" 
+2025-06-27 22:27:07,261 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:30:27,073 INFO  com.resources.PrimeNumberCounter [main] Exiting from the Code
+2025-06-27 22:30:27,073 INFO  com.resources.PrimeNumberCounter [main] Thank You!..
+2025-06-27 22:30:43,446 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:30:47,510 ERROR com.resources.PrimeNumberCounter [main] Please enter a number between 0 to 500 only 
+2025-06-27 22:30:47,510 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:33:30,016 INFO  com.resources.PrimeNumberCounter [main] Exiting from the Code
+2025-06-27 22:33:30,016 INFO  com.resources.PrimeNumberCounter [main] Thank You!..
+2025-06-27 22:33:39,583 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:33:42,235 INFO  com.resources.PrimeNumberCounter [main] The Prime Numbers are: 
+2025-06-27 22:33:42,235 INFO  com.resources.PrimeNumberCounter [main] 2
+2025-06-27 22:33:42,235 INFO  com.resources.PrimeNumberCounter [main] 3
+2025-06-27 22:33:42,235 INFO  com.resources.PrimeNumberCounter [main] 5
+2025-06-27 22:33:42,235 INFO  com.resources.PrimeNumberCounter [main] 7
+2025-06-27 22:33:42,235 INFO  com.resources.PrimeNumberCounter [main] 11
+2025-06-27 22:33:42,250 INFO  com.resources.PrimeNumberCounter [main] 13
+2025-06-27 22:33:42,250 INFO  com.resources.PrimeNumberCounter [main] 17
+2025-06-27 22:33:42,250 INFO  com.resources.PrimeNumberCounter [main] 19
+2025-06-27 22:33:42,250 INFO  com.resources.PrimeNumberCounter [main] 23
+2025-06-27 22:33:42,250 INFO  com.resources.PrimeNumberCounter [main] 29
+2025-06-27 22:33:42,250 INFO  com.resources.PrimeNumberCounter [main] 31
+2025-06-27 22:33:42,250 INFO  com.resources.PrimeNumberCounter [main] Choose the option "run" to run code and "exit" to exit from the code.
+2025-06-27 22:33:45,896 INFO  com.resources.PrimeNumberCounter [main] Exiting from the Code
+2025-06-27 22:33:45,896 INFO  com.resources.PrimeNumberCounter [main] Thank You!..
