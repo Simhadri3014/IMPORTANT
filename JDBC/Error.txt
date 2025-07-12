@@ -1,0 +1,74 @@
+Microsoft Windows [Version 10.0.26100.3624]
+(c) Microsoft Corporation. All rights reserved.
+
+O:\Desktop\JDBC>javac -cp ".;lib/*" DatabaseConnection.java
+
+O:\Desktop\JDBC>java -cp ".;lib/*" DatabaseConnection
+ Connection Failed!
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+        at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+        at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+        at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:829)
+        at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:449)
+        at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:242)
+        at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+        at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:681)
+        at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:229)
+        at DatabaseConnection.main(DatabaseConnection.java:20)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+        at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+        at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+        at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+        at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+        at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+        at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+        at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+        at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+        at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+        at com.mysql.cj.protocol.a.NativeProtocol.negotiateSSLConnection(NativeProtocol.java:317)
+        at com.mysql.cj.protocol.a.NativeAuthenticationProvider.connect(NativeAuthenticationProvider.java:204)
+        at com.mysql.cj.protocol.a.NativeProtocol.connect(NativeProtocol.java:1369)
+        at com.mysql.cj.NativeSession.connect(NativeSession.java:133)
+        at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:949)
+        at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:819)
+        ... 6 more
+Caused by: javax.net.ssl.SSLHandshakeException: NotBefore: Fri Jun 20 16:14:18 IST 2025
+        at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+        at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:378)
+        at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+        at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:316)
+        at java.base/sun.security.ssl.CertificateMessage$T13CertificateConsumer.checkServerCerts(CertificateMessage.java:1351)
+        at java.base/sun.security.ssl.CertificateMessage$T13CertificateConsumer.onConsumeCertificate(CertificateMessage.java:1226)
+        at java.base/sun.security.ssl.CertificateMessage$T13CertificateConsumer.consume(CertificateMessage.java:1169)
+        at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:396)
+        at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:480)
+        at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:458)
+        at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:201)
+        at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+        at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506)
+        at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421)
+        at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+        at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+        at com.mysql.cj.protocol.ExportControlled.performTlsHandshake(ExportControlled.java:347)
+        at com.mysql.cj.protocol.StandardSocketFactory.performTlsHandshake(StandardSocketFactory.java:194)
+        at com.mysql.cj.protocol.a.NativeSocketConnection.performTlsHandshake(NativeSocketConnection.java:101)
+        at com.mysql.cj.protocol.a.NativeProtocol.negotiateSSLConnection(NativeProtocol.java:308)
+        ... 11 more
+Caused by: java.security.cert.CertificateNotYetValidException: NotBefore: Fri Jun 20 16:14:18 IST 2025
+        at java.base/sun.security.x509.CertificateValidity.valid(CertificateValidity.java:273)
+        at java.base/sun.security.x509.X509CertImpl.checkValidity(X509CertImpl.java:629)
+        at java.base/sun.security.x509.X509CertImpl.checkValidity(X509CertImpl.java:602)
+        at com.mysql.cj.protocol.ExportControlled$X509TrustManagerWrapper.checkServerTrusted(ExportControlled.java:392)
+        at java.base/sun.security.ssl.AbstractTrustManagerWrapper.checkServerTrusted(SSLContextImpl.java:1439)
+        at java.base/sun.security.ssl.CertificateMessage$T13CertificateConsumer.checkServerCerts(CertificateMessage.java:1335)
+        ... 26 more
+
+
+Solution:
+String url = "jdbc:mysql://192.168.206.130:3306/College?useSSL=false";
+
+
