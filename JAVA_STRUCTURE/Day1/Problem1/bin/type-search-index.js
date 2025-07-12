@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"InputReader"},{"p":"<Unnamed>","l":"IntegerFormatValidator"},{"p":"<Unnamed>","l":"PrimeNumberFinder"},{"p":"<Unnamed>","l":"Validator"}];updateSearchResults();
